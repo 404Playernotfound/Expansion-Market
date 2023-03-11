@@ -1,0 +1,28 @@
+{
+    "m_Version": 10,
+    "DisplayName": "Tactical Flava",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "TraderIcon": "Airdrop",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+		"TF_Accessories",
+		"TF_Ammo",
+		"TF_Bags",
+		"TF_Buttstocks",
+		"TF_Clothes",
+		"TF_Grenades",
+		"TF_Grips",
+		"TF_Handguards",
+		"TF_Helmets",
+		"TF_Mags",
+		"TF_Muzzles",
+		"TF_Optics",
+		"TF_Pouches",
+		"TF_Vests",
+		"TF_Weapons"
+    ],
+    "Items": {}
+}

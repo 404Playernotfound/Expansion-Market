@@ -1,0 +1,52 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Bags",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "TF_CamelBakBag_Black",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_CamelBakBag_Brown",
+				"TF_CamelBakBag_EMR",
+				"TF_CamelBakBag_OD",
+				"TF_CamelBakBag_Tan"
+            ]
+        },
+				{
+			"ClassName": "TF_AVSBag_Coyote",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_AVSBag_Khaki"
+            ]
+        },
+				{
+			"ClassName": "TF_MAPBag_Khaki",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "TF_MAPBag_Coyote"
+            ]
+        }
+    ]
+}
